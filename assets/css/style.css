@@ -31,7 +31,7 @@ main {
 
 .container-todo {
     background-color: var(--color01);
-    width: 350px;
+    width: 400px;
     padding: 20px;
     border-radius: 10px;
 }
